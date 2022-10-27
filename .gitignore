@@ -4,3 +4,7 @@ in/
 out/
 .DS_Store
 .idea/
+
+/node_modules
+/client/node_modules
+/client/words.txt
