@@ -26,7 +26,7 @@ function readModuleFile(path, callback) {
 app.use(connectLiveReload());
 
 app.get('/', (req, res) => {
-    readModuleFile('./words.txt', function (err, data) {
+    readModuleFile('./words.mmd', function (err, data) {
 
         var config = {
             method: 'post',

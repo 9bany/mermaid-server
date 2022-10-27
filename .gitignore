@@ -7,4 +7,4 @@ out/
 
 /node_modules
 /client/node_modules
-/client/words.txt
+/client/words.mmd
